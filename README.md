@@ -9,8 +9,9 @@ TFIDF进行数据处理后，使用XGB进行分类。数据多了之后处理起
 ### 下载链接
 可能需要科x学x上x网x
 
-https://aka.ms/PowerShellCorpus
+https://aka.ms/PowerShellCorpus  这是30W样本量的powershell数据集
 
+https://github.com/das-lab/mpsd  这是1W+的有标注powershell数据集
 ### 数据集的介绍
 
 You can find the details behind the data science aspects of this work in the 'DataScience' subdirectory of the repository
